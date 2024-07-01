@@ -35,5 +35,5 @@ export async function downloadProject(store: ReplStore) {
   }
 
   const blob = await zip.generateAsync({ type: 'blob' })
-  saveAs(blob, 'vue-project.zip')
+  saveAs(blob, 'ddlazy-ui-plus-playground.zip')
 }

@@ -1,4 +1,4 @@
-# SFC Playground
+# ddlazy-ui-plus SFC Playground
 
 This is continuously deployed at [https://play.vuejs.org](https://play.vuejs.org).
 
